@@ -1,5 +1,5 @@
 # Mirror-sensing Boe-Bot
-The code implements functions that lets the BOE-bot perform the following functions: 
+The code implements functions that let the BOE-bot perform the following functions: 
 1. following a dark path using **QTI** sensors
 2. detecting presence of mirrors using a **QTI** sensor
 3. detecting the color of the surface where it stands using a **ColorPAL** sensor
